@@ -12,4 +12,5 @@ This is my third year project for the module Object orientated programming.
    again I would start a lot earlier to give myself more time to get the whole
    project working downloads as well. I fell short of time and therefore 
    was not able to fully complete the project. For references for this project I
-   used github, google and stack overflow.
+   used github, google and stack overflow. Also the jar file for some reason will 
+   not show up on github but it is in the project and working.
