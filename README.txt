@@ -11,4 +11,5 @@ This is my third year project for the module Object orientated programming.
   into practice from the theory we did in class. If I was to do this project
    again I would start a lot earlier to give myself more time to get the whole
    project working downloads as well. I fell short of time and therefore 
-   was not able to fully complete the project.
+   was not able to fully complete the project. For references for this project I
+   used github, google and stack overflow.
