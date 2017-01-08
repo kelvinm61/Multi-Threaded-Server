@@ -8,9 +8,10 @@ This is my third year project for the module Object orientated programming.
  that part of the code out altogether. I got most of the classes up and running 
  but they are not very coherent. I learned a lot from this project like how 
  blocking queues work and how encapsulating works and it was nice to put them
-  into practice from the theory we did in class. If I was to do this project
-   again I would start a lot earlier to give myself more time to get the whole
-   project working downloads as well. I fell short of time and therefore 
-   was not able to fully complete the project. For references for this project I
-   used github, google and stack overflow. Also the jar file for some reason will 
-   not show up on github but it is in the project and working.
+ into practice from the theory we did in class. If I was to do this project
+ again I would start a lot earlier to give myself more time to get the whole
+ project working downloads as well. I fell short of time and therefore 
+ was not able to fully complete the project. For references and help for
+ this project I used github, google and stack overflow. Also the jar file
+ for some reason will not show up on github  and i have tried everything i can think of 
+ but it is in the project and working.
